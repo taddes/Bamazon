@@ -3,7 +3,19 @@ An Amazon.com-like storefront which can be viewed and accessed from the perspect
 
 ![](/images/bamazon.png)
 
+<hr>
 
+MySQL database populated with following table:
+`item_id (unique id for each product)
+
+product_name (Name of product)
+
+department_name
+
+price (cost to customer)
+
+stock_quantity (how much of the product is available in stores)
+`
 To initialize the program, enter `node bamazonCustomer.js`.
 
 ![](/images/one.png)
