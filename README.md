@@ -40,7 +40,7 @@ Here you can enter the quantity number, and hit enter.
 
 ![](/images/six.png)
 <hr>
-You will then either recieve a message that the purchase was completed successfully, if there is sufficient quantity, or a message that states that there is insufficient quantity. 
+You will then either recieve a message that the purchase was completed successfully (if there is sufficient quantity), or a message that states that there is insufficient quantity. 
 
 ![](/images/seven.png)
 <hr>
